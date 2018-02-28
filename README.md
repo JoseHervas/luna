@@ -3,9 +3,9 @@ Luna is my personal assistant chatbot.
 
 It's build with <a href="https://github.com/gunthercox/ChatterBot">ChatterBot</a> and with <a href="https://github.com/eternnoir/pyTelegramBotAPI">pyTelegramBotAPI</a> (and, of course, with some good ❤).
 
-<img src="demo_cropped.jpg"/>
+<img height="400" src="demo_cropped.jpg"/>
 
-#### Features
+## Features
 
 - Luna has a cool <strong>conversational dialog engine</strong>, which allows her to hold a fluid conversation (the longer the corpus training used for the initial boosting, the better quality of conversations).
 
@@ -17,7 +17,7 @@ It's build with <a href="https://github.com/gunthercox/ChatterBot">ChatterBot</a
 
 - Aditionally to the normal conversations, she can also do a set of <strong>custom tasks</strong> for you, like waking you up at a certain time or taking a list of to-do notes. You can add your own custom tasks by writting them on the `utils\commands.json` and `utils\command_handlers.py` files.
 
-#### How to use
+## How to use
 
 - Clone/download the repo and run the `setup.py` file.
 
@@ -27,13 +27,13 @@ It's build with <a href="https://github.com/gunthercox/ChatterBot">ChatterBot</a
 
 - Write your Telegram API key on the `config\apis.json` file, and also add your telegram username to the `config\user.json` file (Luna will only answer to your messages).
 
-#### Things to improve
+## Things to improve
 
 - When she learns a new response to a sentence, if you want her to forget that response, you need to edit the SQLite database. It would be nice if she could forget that response by herself, like a custom command.
 
 - More custom commands are on the way (search on google, music/movies recommendation, integration with some APIs like maps, calendar, etc...).
 
-#### License
+## License
 
 Of course! MIT License <3
 
