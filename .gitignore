@@ -1,0 +1,12 @@
+#virtualenv
+venv/
+
+#logs & personal info
+logs
+exports/
+
+#Byte-compiled / optimized / DLL files
+__pycache__/
+
+#database
+database.db

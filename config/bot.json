@@ -1,0 +1,7 @@
+{
+  "name": "Luna",
+  "min_confidence_rate": "0.60",
+  "learn_mode": false,
+  "initial_training": false,
+  "last_mssg": ""
+}

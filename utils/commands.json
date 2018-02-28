@@ -1,0 +1,127 @@
+{
+	"Despertar":{
+		"Sentences":
+			[
+				"Despiertame a las 09:00",
+				"Levantame mañana a las 09:00",
+				"Tengo que levantarme a las 09:00"
+			],
+		"Responses": 
+			[
+				"Muy bien, a esa hora te despierto.",
+				"Ok, recibido jefe!",
+				"Sin problema."
+			],
+		"Mensajes":
+			[
+				"Buuuuuuuuuenos dias dormilon!",
+				"Hora de levantarse. Arrrrribaaaa"
+			]
+	},
+	"Recordatorio":{
+		"Sentences":
+			[
+				"Recuerdame a las 12:00 que haga los deberes",
+				"Recuérdame a las 12:00 que compruebe tu funcionalidad de recordatorios",
+				"Veronica, recuerdame que haga tal cosa a las 13:30"
+			],
+		"Responses": 
+			[
+				"Muy bien, te lo recordare.",
+				"A la orden!",
+				"Sin problema."
+			],
+		"Mensajes":
+			[
+				"Ze, recuerda lo que me dijiste de...",
+				"Te acuerdas de eso de..."
+			]
+	},
+	"Aprendizaje":{
+		"Sentences":
+			[
+				"Activar modo aprendizaje"
+			],
+		"Responses": 
+			[
+				"Dime la frase que debería ser input y la frase que debería ser output",
+				"Modo aprendizaje encendido"
+			],
+		"Mensajes":
+			[
+				"Muy bien! Tomo nota de ello.",
+				"Perfecto. Lección aprendida :)"
+			]
+	},
+	"Ajustar conf rate":{
+		"Sentences":
+			[
+				"Cambia el nivel de confianza de tus respuestas al 0.65",
+				"Ajusta el nivel de confianza al 0.3",
+				"Cambia el nivel de confianza al 0.40",
+				"Veronica, cambia el nivel de confianza al 0.2"
+			],
+		"Responses": 
+			[
+				"Hecho.",
+				"Ajustando nivel de confianza de las respuestas.",
+				"Muy bien. Voy a ello."
+			]
+	},
+	"Corregir entrada":{
+		"Sentences":
+			[
+				"Esa respuesta no es adecuada."
+			],
+		"Responses": 
+			[
+				"Oops! Sorry, se me ha debido de cruzar un cable. No te preocupes, lo acabo de corregir para futuras ocasiones."
+			]
+	},
+	"Comprobar tiempo":{
+		"Sentences":
+			[
+				"Comprueba el tiempo para hoy en Barcelona"
+			],
+		"Responses": 
+			[
+				"Según las previsiones, durante el dia de hoy se espera: "
+			]
+	},
+	"Add to tasks":{
+		"Sentences":
+			[
+				"Añade a las tareas pendientes: sacar la basura",
+				"Veronica, añade a la lista de tareas: comprobar luz",
+				"Añade a la lista de tareas: hacer que Veronica compruebe cada X tiempo la current version de su framework principal"
+			],
+		"Responses": 
+			[
+				"Tarea incorporada a la lista."
+			]
+	},
+	"Listar tareas":{
+		"Sentences":
+			[
+				"Muestrame la lista de tareas pendientes",
+				""
+			],
+		"Responses": 
+			[
+				"Estas son las tareas que tienes pendientes hasta la fecha: "
+			]
+	},
+	"Eliminar tarea":{
+		"Sentences":
+			[
+				"Borra esta tarea: sacar la basura",
+				"Elimina esta tarea de la lista: jugar al parchis",
+				"Ya puedes borrar esta tarea: limpiar casa",
+				"Elimina esta tarea de la lista: hablar en ingles"
+			],
+		"Responses": 
+			[
+				"Tarea eliminada de la lista. Estas son las tareas que te quedan pendientes: "
+			]
+	}
+}
