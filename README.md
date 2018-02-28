@@ -3,6 +3,8 @@ Luna is my personal assistant chatbot.
 
 It's build with <a href="https://github.com/gunthercox/ChatterBot">ChatterBot</a> and with <a href="https://github.com/eternnoir/pyTelegramBotAPI">pyTelegramBotAPI</a> (and, of course, with some good ❤).
 
+<img src="demo_cropped.jpg"/>
+
 #### Features
 
 - Luna has a cool <strong>conversational dialog engine</strong>, which allows her to hold a fluid conversation (the longer the corpus training used for the initial boosting, the better quality of conversations).
