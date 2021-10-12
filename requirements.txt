@@ -16,7 +16,7 @@ nltk==3.2.5
 numpy==1.13.0
 oauthlib==2.0.6
 olefile==0.44
-opencv-python==3.3.0.10
+opencv-python==4.2.0.32
 pandas==0.20.2
 Pillow==4.2.1
 pymongo==3.6.0
