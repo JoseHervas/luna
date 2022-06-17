@@ -13,7 +13,7 @@ jsonschema==2.4.0
 mathparse==0.1.1
 matplotlib==2.0.2
 nltk==3.2.5
-numpy==1.13.0
+numpy==1.21.0
 oauthlib==2.0.6
 olefile==0.44
 opencv-python==3.3.0.10
